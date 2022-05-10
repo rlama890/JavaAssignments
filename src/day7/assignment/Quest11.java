@@ -2,13 +2,13 @@ package day7.assignment;
 
 import java.util.Scanner;
 
+
+//Write a program to swap two numbers 
+//a) using temporary variable 
 public class Quest11 {
 
 	public static void main(String[] args) {
-		// Write a program to swap two numbers 
-        //a) using temp variable 
-        
-
+		
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter a :");
 		int a = input.nextInt();

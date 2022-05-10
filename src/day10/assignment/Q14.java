@@ -23,6 +23,6 @@ public class Q14 {
 		if (a < b) {
 			System.out.println("a is less than b");
 		}
-
+		input.close();
 	}
 }
