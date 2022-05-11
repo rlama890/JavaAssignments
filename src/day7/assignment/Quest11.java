@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class Quest11 {
 
 	public static void main(String[] args) {
-
 		//taking input
+		// taking input from scanner
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter a :");
 		int a = input.nextInt();
@@ -34,6 +34,7 @@ public class Quest11 {
 		System.out.println("The Value of a is :" + a);
 		System.out.println("The Value of b is :" + b);
 
+		// closing the scanner
 		input.close();
 	}
 
