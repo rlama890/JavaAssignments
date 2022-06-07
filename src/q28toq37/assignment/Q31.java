@@ -4,7 +4,6 @@ public class Q31 {
 
 	public static void main(String[] args) {
 //		Write a Program display following patterns. 
-//
 //	      1 
 //
 //	      12 
@@ -14,7 +13,7 @@ public class Q31 {
 //	      1234 
 //
 //	      12345 
-int [][] jj = new int[5][];
+		int [][] jj = new int[5][];
 		
 		
 		jj[0] = new int[1];
